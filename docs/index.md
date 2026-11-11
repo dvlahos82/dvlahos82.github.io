@@ -19,9 +19,9 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
+  <img src="assets/images/profile_image.jpeg" alt="Dimitris Vlachos" class="profile-photo">
+  <h1>Dimitris Vlachos</h1>
+  <p><strong>GIS Engineer</strong></p>
   <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
 </div>
 
@@ -68,10 +68,10 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
     - QGIS, ArcGIS Pro, Google Earth Engine
     - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
+    - Autocad
     - Cloud Native Geospatial (COG, STAC, Zarr)
 
--   :material-code-braces:{ .lg .middle } **Programming**
+-   :fontawesome-solid-martini-glass:{ .lg .middle } **Programming**
 
     ---
 
@@ -80,14 +80,6 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
     - JavaScript — Leaflet, MapLibre GL
     - SQL, PostgreSQL + PostGIS
 
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
-
-    ---
-
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
 
 -   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
