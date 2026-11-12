@@ -2,9 +2,13 @@
 
 A ready-to-use portfolio website template for geospatial professionals — GIS analysts, remote
 sensing specialists, spatial data scientists, and GeoAI practitioners. Built with
+
 [MkDocs](https://www.mkdocs.org/) and the [Material theme](https://squidfunk.github.io/mkdocs-material/).
 
+
 Build a fully responsive personalized portfolio website - no Git or coding expertise required.
+
+
 
 **[LIVE PORTFOLIO](https://spatialthoughts.github.io/)**
 
