@@ -22,7 +22,7 @@ CHECKLIST FOR THIS PAGE:
   <img src="assets/images/profile_image.jpeg" alt="Dimitris Vlachos" class="profile-photo">
   <h1>Dimitris Vlachos</h1>
   <p><strong>GIS Engineer</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <p><em>[YOUR TAGLINE — Test]</em></p>
 </div>
 
 ---
@@ -32,15 +32,8 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I’m a GIS engineer and NTUA-trained surveyor based in Athens. Since 2021 I have run a geoportal of 3,000+ layers across 50+ fiber-installation projects in Greece, Germany, the Netherlands and Austria, using QGIS and GeoServer. Before that, I spent over a decade in the field, working with GPS, total stations, laser scanning, drone mapping and thermal imaging, staking out boundaries and construction elements for solar parks and designing their earthworks and internal roads. I work in Greek, English and German.
 
 </div>
 
@@ -53,7 +46,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/CV_Vlachos_Dimitris.pdf){ .md-button }
 
 
 ---
@@ -62,41 +55,43 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+-   :material-layers:{ .lg .middle } **GIS**
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
+    - QGIS
     - GDAL / OGR, GRASS GIS
     - Autocad
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    
 
--   :fontawesome-solid-martini-glass:{ .lg .middle } **Programming**
+-   :fontawesome-solid-martini-glass:{ .lg .middle } **Surveying**
 
     ---
 
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
+    - GNSS
+    - Total station
+    - Georadar
+    - Drone 
+    - Laser Scanner
+   
 
 
 -   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
     ---
 
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
+    - Leaflet.js, OpenLayers
+    - Geoserver
     - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
+    
 
--   :material-database:{ .lg .middle } **Data & Cloud**
+-   :material-database:{ .lg .middle } **Utility detection**
 
     ---
 
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - Processing 3rd party drawings
+    - Georadar measurements
+    - Processing Georadar data in dedicated (software)
 
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
 
@@ -110,5 +105,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/dvlahos82){ .md-button }
+[LinkedIn](https://linkedin.com/in/dimitris-vlachos-39589a136){ .md-button }
